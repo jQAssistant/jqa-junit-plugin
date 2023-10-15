@@ -1,4 +1,4 @@
-= jQAssistant Java Plugin
+= jQAssistant JUnit Plugin
 
 This is the http://www.junit.org[JUnit^] Plugin of https://jqassistant.org[jQAssistant^].
 It enables jQAssistant to scan and to analyze JUnit related
